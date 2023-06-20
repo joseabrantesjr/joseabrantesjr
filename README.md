@@ -1,4 +1,4 @@
-Olá! Eu sou @joseabrantesjr 👋
+Olá! Eu sou @joseabrantesjr 
 
 Sobre mim
 
