@@ -1,9 +1,9 @@
 Olá! Eu sou @joseabrantesjr 
 
-Tenho paixão por desenvolvimento de softwares e estou sempre buscando aprender e me aprimorar nessa área.
+Tenho paixão em programar e estou sempre buscando aprender e me aprimorar nessa área.
 Estou constantemente explorando novas tecnologias e tendências para melhorar minhas habilidades e conhecimentos.
 
-Possuo profundo onhecimento em programação Python e desenvolvimento web, incluindo HTML, CSS, JavaScript e frameworks como Flask e Django.
+Possuo onhecimento em programação Python e desenvolvimento web, incluindo HTML, CSS, JavaScript e frameworks como Flask e Django.
 Capacidade de projetar e implementar soluções eficientes, focadas no usuário e orientadas a objetivos.
 
 Estou interessado em colaborar com outros desenvolvedores em projetos inovadores e desafiadores.
