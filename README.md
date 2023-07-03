@@ -1,11 +1,2 @@
-Olá! Eu sou @joseabrantesjr.
-
-Este perfil foi criado para demonstrar e registrar minha evolução durante a minha graduação em Análise e Desenvolvimento de Sistemas, e pela autoaprendizagem. Tenho uma paixão pela programação e estou constantemente buscando aprender e me aprimorar nessa área.
-
-Tenho conhecimento em programação Python e desenvolvimento web, incluindo HTML, CSS, JavaScript e frameworks como Flask e Django. Minhas habilidades incluem a capacidade de projetar e implementar soluções eficientes, focadas no usuário e orientadas a objetivos.
-
-Estou interessado em colaborar com outros desenvolvedores em projetos inovadores e desafiadores. Se você tiver um projeto ou ideia interessante, fique à vontade para entrar em contato comigo.
-
-Além disso, estou sempre explorando novas tecnologias e tendências para melhorar minhas habilidades e conhecimentos. Estou animado em compartilhar minha jornada de aprendizado e crescer como profissional.
-
-Sinta-se à vontade para me enviar uma mensagem se tiver alguma dúvida, sugestão ou apenas para bater um papo sobre programação. Vamos juntos explorar o mundo da programação e construir soluções incríveis!
+Olá! 
+Meu nome é José Calazans Abrantes Junior e sou um apaixonado desenvolvedor de software. Estou constantemente em busca de aprendizado e aprimoramento das minhas habilidades nessa área em constante evolução. Tenho um amplo conhecimento em programação Python, bem como experiência em outras linguagens como JavaScript, Java, C++, C#, PHP, Ruby e Swift. Essa diversidade de conhecimento me proporciona uma base sólida e ampla para realizar desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript, além de frameworks como Flask e Django. Tenho uma abordagem focada no usuário e nos objetivos do projeto, projetando e implementando soluções eficientes. Estou sempre atualizado sobre as novas tecnologias e tendências do mercado, buscando aplicá-las em meus trabalhos para entregar resultados de alta qualidade. Também possuo experiência e conhecimento abrangente em automação, utilizando ferramentas como Selenium. Tive a oportunidade de publicar dois livros em inglês sobre automação com Selenium, os quais são comercializados em diversos países, como Estados Unidos, Reino Unido, Austrália, Japão e muitos outros. Meu objetivo é destacar-me no ramo da programação, aplicando minha experiência e habilidades para criar soluções eficientes e inovadoras. Estou comprometido em entregar trabalhos de alta qualidade, sempre buscando superar as expectativas dos meus clientes e proporcionar uma experiência excepcional. Estou entusiasmado para enfrentar novos desafios e contribuir para o sucesso de projetos de programação. Vamos juntos impulsionar a inovação e alcançar resultados extraordinários!
