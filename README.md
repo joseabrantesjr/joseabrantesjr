@@ -21,9 +21,9 @@ But enough about me, let's focus on what I can do for you! Whether it's building
 
 Why wait? Let's collaborate and push the boundaries of what's achievable in the programming world! Reach out to me on GitHub, Instagram, or Facebook. Together, we can create something truly remarkable. 
 
-- GitHub: [YourGitHubUsername](https://github.com/joseabrantesjr)
-- Instagram: [YourInstagramHandle](https://www.instagram.com/joseabrantesjr)
-- Facebook: [YourFacebookProfile](https://www.facebook.com/jose.abrantesjunior.9)
+- [GitHub](https://github.com/joseabrantesjr)
+- [Instagram](https://www.instagram.com/joseabrantesjr)
+- [Facebook](https://www.facebook.com/jose.abrantesjunior.9)
 
 ## 📚 Dive into Automation:
 
