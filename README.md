@@ -8,6 +8,10 @@ My unwavering commitment to staying current with the latest technologies and mar
 
 ## 🚀 My Technical Expertise:
 
+| Python | Node.js | JavaScript | PHP |
+|--------|---------|------------|-----|
+| <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="200" height="200"> | <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="200" height="200"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="200" height="200"> | <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="200" height="200"> |
+
 - **Programming Languages:** Python, Node.js, JavaScript, TypeScript, PHP
 - **Web Development Frameworks:** Flask, Django, Laravel
 - **Automation Tools:** Selenium, Appium
