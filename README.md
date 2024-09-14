@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um profissional apaixonado por **mercado financeiro**, **análise de dados** e **programação**. Com um profundo conhecimento em **previsão de preços**, **análises técnicas e fundamentalistas** e uma sólida formação autodidata em **programação**, busco constantemente aprimorar minhas habilidades e contribuir para inovações no campo financeiro.
+Sou extremamente curioso e interessado por **mercado financeiro**, **análise de dados** e **programação**. Com um profundo conhecimento em **previsão de preços**, **análises técnicas e fundamentalistas** e uma sólida formação autodidata em **programação**, busco constantemente aprimorar minhas habilidades e contribuir para inovações no campo financeiro.
 
 Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimentos para a **análise de dados ambientais**. Além disso, estou cursando **Gestão Ambiental** para expandir minha compreensão sobre práticas sustentáveis e seu impacto no setor.
 
