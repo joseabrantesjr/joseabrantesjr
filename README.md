@@ -44,7 +44,7 @@ Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimento
 
 Estou sempre aberto a colaborações e novas oportunidades. Sinta-se à vontade para entrar em contato e explorar como podemos trabalhar juntos para resolver desafios complexos e inovar no mercado financeiro e na gestão ambiental.
 
-- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/joseabrantesjr/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/joseabrantesjr/)
 
 Obrigado por visitar meu perfil!
 
