@@ -23,7 +23,7 @@ Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimento
 
 ## 📚 Projetos Destacados
 
-- **[Previsão de Preços de Ações e Otimização de Portfólio]([https://github.com/seu_usuario/seu_repositorio](https://github.com/joseabrantesjr/trade))**:
+- **[Previsão de Preços de Ações e Otimização de Portfólio](https://github.com/joseabrantesjr/trade)**:
   - Um projeto que utiliza LSTM para previsão de preços de ações e o modelo de Markowitz para otimização de portfólio.
 
 - **[Análise de Dados Ambientais]([https://github.com/seu_usuario/seu_repositorio](https://github.com/joseabrantesjr/trade))**:
