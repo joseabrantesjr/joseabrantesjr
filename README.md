@@ -26,7 +26,7 @@ Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimento
 - **[Previsão de Preços de Ações e Otimização de Portfólio](https://github.com/joseabrantesjr/trade)**:
   - Um projeto que utiliza LSTM para previsão de preços de ações e o modelo de Markowitz para otimização de portfólio.
 
-- **[Análise de Dados Ambientais]**:
+- **Análise de Dados Ambientais**:
   - Ferramentas e métodos para análise de dados ambientais aplicados ao setor de saneamento.
 
 ## 📈 Tecnologias e Ferramentas
