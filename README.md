@@ -40,15 +40,16 @@ Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimento
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens**: Python, SQL
-- **Bibliotecas e Frameworks**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Linguagens**: Python, SQL, Node, PHP.
+- **Bibliotecas e Frameworks**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Flask
 - **Outras Tecnologias**: Git, Docker, Jupyter Notebooks
 
 ## Minhas Conquistas
 
-- Desenvolvimento e publicação de **pacotes Python** para previsão de preços e otimização de portfólio.
+- Desenvolvimento e publicação de pacotes Python para previsão de preços e otimização de portfólio.
 - Contribuição para **projetos de código aberto** focados em finanças e análise de dados ambientais.
-
+- Criação do Password Manager, um sistema de gerenciamento de senhas criptografado e seguro.
+  
 ## Vamos Conectar!
 
 Estou sempre aberto a colaborações e novas oportunidades. Sinta-se à vontade para entrar em contato e explorar como podemos trabalhar juntos para resolver desafios complexos e inovar no mercado financeiro e na gestão ambiental.
