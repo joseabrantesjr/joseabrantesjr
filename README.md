@@ -33,7 +33,7 @@ Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimento
   - Um projeto que utiliza LSTM para previsão de preços de ações e o modelo de Markowitz para otimização de portfólio.
  
 - **[Flask Password Manager](https://github.com/joseabrantesjr/flask.password.manager)**:
-  - Password Manager é uma aplicação web desenvolvida em Python utilizando o framework Flask que permite ao utilizador armazenar e gerir as suas palavras-passe de forma segura e encriptada. 
+  - Password Manager é uma aplicação web desenvolvida em Python utilizando o framework Flask que permite ao utilizador armazenar e gerir as suas palavras-passe de forma segura e criptografada. 
 
 - **Análise de Dados Ambientais**:
   - Ferramentas e métodos para análise de dados ambientais aplicados ao setor de saneamento.
