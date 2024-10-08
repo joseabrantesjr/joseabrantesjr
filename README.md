@@ -4,7 +4,7 @@
 
 Sou extremamente curioso e interessado por **mercado financeiro**, **análise de dados** e **criptografia**. Com um profundo conhecimento, adquirido atraves de uma sólida e constante formação autodidata, em **machine-learning**, **deep-learning**, **data analytics** , **data science** , busco constantemente aprimorar minhas habilidades e contribuir para inovações no campo financeiro e ambiental.
 
-Atualmente, trabalho em uma empresa de saneamento, onde aplico meus conhecimentos para a **análise de dados ambientais**. Além disso, estou cursando **Gestão Ambiental** para expandir minha compreensão sobre práticas sustentáveis e seu impacto no setor.
+Atualmente, estou cursando o Bacharelado Interdisciplinar em Inovação, Ciência e Tecnologia (BICT) na Universidade Federal de Lavras (UFLA), que constitui o primeiro ciclo de formação para diversos cursos de engenharia. Após essa formação, irei continuar meus estudos para me graduar em Engenharia Química, visando ampliar minha capacidade técnica e continuar contribuindo para o setor de saneamento. Além disso, estou cursando **Gestão Ambiental** para expandir minha compreensão sobre práticas sustentáveis e seu impacto no setor.
 
 ## Experiência e Conhecimentos
 
