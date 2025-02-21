@@ -2,20 +2,11 @@
 
 ## Sobre Mim
 
-Sou extremamente curioso e interessado por **mercado financeiro**, **análise de dados** e **criptografia**. Com um profundo conhecimento, adquirido atraves de uma sólida e constante formação autodidata, em **machine-learning**, **deep-learning**, **data analytics** , **data science** , busco constantemente aprimorar minhas habilidades e contribuir para inovações no campo financeiro e ambiental.
+Sou extremamente curioso e interessado por **análise de dados** e **criptografia**. Com um profundo conhecimento, adquirido atraves de uma sólida e constante formação autodidata, busco constantemente aprimorar minhas habilidades e contribuir para inovações.
 
-Atualmente, estou cursando o Bacharelado Interdisciplinar em Inovação, Ciência e Tecnologia (BICT) na Universidade Federal de Lavras (UFLA), que constitui o primeiro ciclo de formação para diversos cursos de engenharia. Após essa formação, irei continuar meus estudos para me graduar em Engenharia Química, visando ampliar minha capacidade técnica e continuar contribuindo para o setor de saneamento. Além disso, estou cursando **Gestão Ambiental** para expandir minha compreensão sobre práticas sustentáveis e seu impacto no setor.
+Atualmente, estou cursando o Bacharelado Interdisciplinar em Inovação, Ciência e Tecnologia (BICT) na Universidade Federal de Lavras (UFLA), que constitui o primeiro ciclo de formação para diversos cursos de engenharia. Após essa formação, irei continuar meus estudos para me graduar em Engenharia Química, visando ampliar minha capacidade técnica e continuar contribuindo para o setor.
 
 ## Experiência e Conhecimentos
-
-- **Mercado Financeiro**:
-  - Previsão de preços de ações usando técnicas avançadas de **machine learning** e **deep learning**.
-  - Análises técnicas e fundamentalistas para decisões de investimento mais informadas.
-  - Desenvolvimento de **robôs de trading** e **softwares financeiros** personalizados.
-
-- **Machine Learning e Deep Learning**:
-  - Aplicação de **redes neurais**, incluindo **LSTM** e **modelos de Markowitz** para otimização de portfólio.
-  - Experiência com bibliotecas como **TensorFlow**, **Keras**, e **Scikit-Learn** para desenvolvimento de modelos preditivos.
 
 - **Análise de Dados Ambientais**:
   - Utilização de ferramentas de análise de dados para monitorar e otimizar processos de saneamento.
@@ -29,9 +20,6 @@ Atualmente, estou cursando o Bacharelado Interdisciplinar em Inovação, Ciênci
 
 ## Projetos Destacados
 
-- **[Previsão de Preços de Ações e Otimização de Portfólio](https://github.com/joseabrantesjr/trade)**:
-  - Um projeto que utiliza LSTM para previsão de preços de ações e o modelo de Markowitz para otimização de portfólio.
- 
 - **[Flask Password Manager](https://github.com/joseabrantesjr/flask.password.manager)**:
   - Password Manager é uma aplicação web desenvolvida em Python utilizando o framework Flask que permite ao utilizador armazenar e gerir as suas palavras-passe de forma segura e criptografada. 
 
@@ -40,14 +28,13 @@ Atualmente, estou cursando o Bacharelado Interdisciplinar em Inovação, Ciênci
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens**: Python, SQL, Node, PHP.
-- **Bibliotecas e Frameworks**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Flask
-- **Outras Tecnologias**: Git, Docker, Jupyter Notebooks
+- **Linguagens**: Python, SQL, PHP.
+- **Bibliotecas e Frameworks**: Pandas, NumPy, Matplotlib, Flask, entre diversas outras.
+- **Outras Tecnologias**: Git, Docker
 
 ## Minhas Conquistas
 
-- Desenvolvimento e publicação de pacotes Python para previsão de preços e otimização de portfólio.
-- Contribuição para **projetos de código aberto** focados em finanças e análise de dados ambientais.
+- Contribuição para **projetos de código aberto** focados em análise de dados ambientais.
 - Criação do Password Manager, um sistema de gerenciamento de senhas criptografado e seguro.
   
 ## Vamos Conectar!
