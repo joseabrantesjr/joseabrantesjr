@@ -1,5 +1,3 @@
-# Bem-vindo ao meu perfil!
-
 ## Sobre Mim
 
 Sou muito curioso e tenho grande interesse por análise de dados e criptografia. Venho aprendendo bastante por conta própria e estou sempre buscando melhorar minhas habilidades e contribuir com novas ideias.
